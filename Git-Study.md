@@ -8,3 +8,7 @@ Lưu trữ các nội dung học GIT
 > ** Luôn phải commit trước khi push
 
 * Clone Code: sử dụng lệnh git clone URL_GitHub
+* Các câu lệnh thông dụng:
+- git add
+- git commit -m "comment"
+- git push origin main 
